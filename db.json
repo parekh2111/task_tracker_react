@@ -15,8 +15,14 @@
     {
       "text": "Task 6",
       "day": "Jun55",
-      "reminder": false,
+      "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Task2",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
